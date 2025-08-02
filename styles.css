@@ -11,15 +11,15 @@
 }
 
 body {
-  background-color: #01050c;
+  background-color: #091a36;
 }
 
 h1 {
   margin: 30px;
-  font-family: 'Lobster', cursive;
+  font-family:sans-serif;
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
-  color: #762ea0;
+  color: #db8af0;
 }
 
 p {
